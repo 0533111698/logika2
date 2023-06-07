@@ -80,18 +80,18 @@ public class Main {
 //
 //        }
 //        System.out.println(rst);
-        int []nums={1,2,3,4,5,6,6,7,8,9};
-        int sumNums=0;
-        int sum=0;
-        for(int i=0; i<nums.length;i++) {
-            sumNums+=nums[i];
-        }
-        for (int i = 1; i <10 ; i++) {
-            sum+=i;
-        }
-        System.out.println(sumNums);
-        System.out.println(sum);
-        System.out.println(sumNums-sum);
+//        int []nums={1,2,3,4,5,6,6,7,8,9};
+//        int sumNums=0;
+//        int sum=0;
+//        for(int i=0; i<nums.length;i++) {
+//            sumNums+=nums[i];
+//        }
+//        for (int i = 1; i <10 ; i++) {
+//            sum+=i;
+//        }
+//        System.out.println(sumNums);
+//        System.out.println(sum);
+//        System.out.println(sumNums-sum);
 
 
     }
